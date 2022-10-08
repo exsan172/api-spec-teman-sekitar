@@ -4,7 +4,8 @@
         {
             "avatar" : "url ...",
             "name" : "body ...",
-            "bio" : "used for post date"
+            "bio" : "used for post date",
+            "distance" : "1 KM"
         }
     ],
     "totalPages" : 10,
