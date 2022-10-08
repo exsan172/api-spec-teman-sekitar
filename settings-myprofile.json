@@ -1,0 +1,11 @@
+{
+    "statusCode" : 200,
+    "data" : {
+        "background" : "url ..",
+        "avatar" : "url ...",
+        "name" : "Jane Doe",
+        "bio" : "menuju tak terbatas dan melampauinhya",
+        "telegramUrl" : "https://",
+        "whatsappUrl" : "https://"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "statusCode" : 200,
+    "data" : [
+        {
+            "avatar" : "url ...",
+            "name" : "body ...",
+            "bio" : "used for post date"
+        }
+    ],
+    "totalPages" : 10,
+    "prevPages" : 1,
+    "nextPages" : 2,
+    "curentPages" : 1
+}

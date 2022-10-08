@@ -1,0 +1,26 @@
+{
+    "statusCode" : 200,
+    "data" : {
+        "profile" : {
+            "background" : "url ..",
+            "avatar" : "url ...",
+            "name" : "Jane Doe",
+            "bio" : "menuju tak terbatas dan melampauinhya",
+            "telegramUrl" : "https://",
+            "whatsappUrl" : "https://"
+        },
+        "post" : {
+            "data" : [
+                {
+                    "imagesPost" : "url ...",
+                    "postBody" : "body ...",
+                    "createdAt" : "used for post date"
+                }
+            ],
+            "totalPages" : 10,
+            "prevPages" : 1,
+            "nextPages" : 2,
+            "curentPages" : 1
+        }
+    }
+}
